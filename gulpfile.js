@@ -1,7 +1,7 @@
 const gulp = require('gulp');
 const sass = require('gulp-sass');
 var connect = require('gulp-connect');
-var spritesmith=require('gulp.spritesmith');
+// var spritesmith=require('gulp.spritesmith');
 
 const Asset = {
 	css:'src/**/*.scss',
